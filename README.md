@@ -1,8 +1,7 @@
 
-## پروژه شماره 3 -  سامانه کمک نگهدارنده خط
+## Lane Keeping Assist System
 
-### اعضای گروه:
-ترلان بهادری 
+### Team Members:
+Tarlan Bahadori - Hamila Mailee
 
-همیلا میلی
 
